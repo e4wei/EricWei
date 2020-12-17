@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.2519a05b.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.7de5d825.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.7de5d825.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.28a86a1e.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.28a86a1e.js.map",
+    "static/js/2.69a45ad6.chunk.js": "/react-gh-pages/static/js/2.69a45ad6.chunk.js",
+    "static/js/2.69a45ad6.chunk.js.map": "/react-gh-pages/static/js/2.69a45ad6.chunk.js.map",
+    "static/js/3.a2e1d9d5.chunk.js": "/react-gh-pages/static/js/3.a2e1d9d5.chunk.js",
+    "static/js/3.a2e1d9d5.chunk.js.map": "/react-gh-pages/static/js/3.a2e1d9d5.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.2519a05b.chunk.css.map": "/react-gh-pages/static/css/main.2519a05b.chunk.css.map",
+    "static/js/2.69a45ad6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.69a45ad6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-gh-pages/static/media/LibreBaskerville-Regular.a27f99ca.ttf",
+    "static/media/profilePic.01800ea0.png": "/react-gh-pages/static/media/profilePic.01800ea0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28a86a1e.js",
+    "static/js/2.69a45ad6.chunk.js",
+    "static/css/main.2519a05b.chunk.css",
+    "static/js/main.7de5d825.chunk.js"
+  ]
+}
