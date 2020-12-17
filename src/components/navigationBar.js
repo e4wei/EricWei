@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import Pdf from '../ResumeFinal.pdf';
 
 function NavBar() {
     const items = [{name: "Home", id: "Body"}, 
@@ -15,6 +15,7 @@ function NavBar() {
     function changeToNonHoverColor(e) {
         e.target.style.color = "white";
     }
+
     return (
         <div>
             <ul id = "nav" style={navCSS}>
@@ -23,7 +24,7 @@ function NavBar() {
                     <li key={item, index}>
                         <a onMouseEnter={changeToHoverColor} 
                             onMouseLeave={changeToNonHoverColor} 
-                            href={(item.name === "Resume") ? '../ResumeFinal.pdf' : ('#'+item.id)}
+                            href={(item.name === "Resume") ? Pdf : ('#'+item.id)}
                             style={navItemCSS}>{item.name}</a>
                     </li>)
                 })}
