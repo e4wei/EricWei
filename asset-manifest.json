@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/EricWei/static/css/main.e3f2ad68.chunk.css",
-    "main.js": "/EricWei/static/js/main.7de5d825.chunk.js",
-    "main.js.map": "/EricWei/static/js/main.7de5d825.chunk.js.map",
+    "main.js": "/EricWei/static/js/main.d18671b8.chunk.js",
+    "main.js.map": "/EricWei/static/js/main.d18671b8.chunk.js.map",
     "runtime-main.js": "/EricWei/static/js/runtime-main.ec0f5d96.js",
     "runtime-main.js.map": "/EricWei/static/js/runtime-main.ec0f5d96.js.map",
-    "static/js/2.d90180f5.chunk.js": "/EricWei/static/js/2.d90180f5.chunk.js",
-    "static/js/2.d90180f5.chunk.js.map": "/EricWei/static/js/2.d90180f5.chunk.js.map",
+    "static/js/2.83790842.chunk.js": "/EricWei/static/js/2.83790842.chunk.js",
+    "static/js/2.83790842.chunk.js.map": "/EricWei/static/js/2.83790842.chunk.js.map",
     "static/js/3.a2e1d9d5.chunk.js": "/EricWei/static/js/3.a2e1d9d5.chunk.js",
     "static/js/3.a2e1d9d5.chunk.js.map": "/EricWei/static/js/3.a2e1d9d5.chunk.js.map",
     "index.html": "/EricWei/index.html",
     "static/css/main.e3f2ad68.chunk.css.map": "/EricWei/static/css/main.e3f2ad68.chunk.css.map",
-    "static/js/2.d90180f5.chunk.js.LICENSE.txt": "/EricWei/static/js/2.d90180f5.chunk.js.LICENSE.txt",
+    "static/js/2.83790842.chunk.js.LICENSE.txt": "/EricWei/static/js/2.83790842.chunk.js.LICENSE.txt",
     "static/media/index.css": "/EricWei/static/media/LibreBaskerville-Regular.a27f99ca.ttf",
     "static/media/profilePic.01800ea0.png": "/EricWei/static/media/profilePic.01800ea0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec0f5d96.js",
-    "static/js/2.d90180f5.chunk.js",
+    "static/js/2.83790842.chunk.js",
     "static/css/main.e3f2ad68.chunk.css",
-    "static/js/main.7de5d825.chunk.js"
+    "static/js/main.d18671b8.chunk.js"
   ]
 }
