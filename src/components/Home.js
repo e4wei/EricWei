@@ -29,6 +29,49 @@ function getImg() {
     )
 }
 
+function getSocial() {
+    return(
+        <ul listStyle="none outside" style={socialCSS}>
+            <li style={socialItemBoxCSS}>
+                <a href="https://www.linkedin.com/in/eric-wei-09b36b141/" style={socialLinkCSS}>
+                    <i style={iconCSS}>
+
+                    </i>
+                </a>
+            </li>
+        </ul>
+    )
+}
+
+const socialCSS = {
+    margin: "24px 0",
+    padding: "0",
+    fontSize: "30px",
+    textShadow: "0px 1px 2px rgba(0, 0, 0, .8)",
+    display: "block"
+}
+
+const socialItemBoxCSS = {
+    display: "inline-block",
+    margin: "0 15px",
+    padding: "0",
+    lineHeight: "18px"
+}
+
+const socialLinkCSS = {
+    color: "#fff",
+    textDecoration: "none",
+    outline: "0"
+}
+
+const iconCSS = {
+    display: "inline-block",
+    fontFamily: "FontAwesome",
+    fontStyle: "normal",
+    fontWeight: "normal",
+    lineHeight: "1"
+}
+
 const HomeCSS = {
     backgroundColor: "#282c34",
     minHeight: "100vh",
@@ -46,6 +89,7 @@ const bodyCSS = {
 const paragraphCSS = {
     color: "#A8A8A8", 
     textShadow: "0px 1px 2px rgba(0, 0, 0, .5)",
-    font: "16px/1.9em 'LibreBaskerville Regular', serif"
+    font: "16px/1.9em 'LibreBaskerville Regular', serif",
+    maxWidth: "410px"
 }
 export default getHome;
