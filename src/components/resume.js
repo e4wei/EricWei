@@ -55,7 +55,7 @@ var Education = {
 }
 
 var WorkLeft = {
-    title: "Work"
+    title: "Experience"
 }
 var CliniCompInfo = {
     title: "CliniComp, Intl.",
