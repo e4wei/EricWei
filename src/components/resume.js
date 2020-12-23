@@ -78,7 +78,7 @@ var AltiSlackApp = {
     title: "Alti Slack App",
     subtitle: "Software Architect",
     date: "Spring 2020",
-    body: "Agile style team focused on building an app to boost productivity. Built the Alti Slack App that pairs coworkers up and enables sending custom warmups and cooldowns.",
+    body: "Agile style team focused on building an app to boost productivity. Built the Alti Slack App that pairs coworkers up and enables sending custom warmups and cooldowns using Javascript, Slack API, Firebase database, and Google Scheduling API.",
     links: ["https://github.com/cse112-sp20/CSE112-Alti"]
 }
 
@@ -87,7 +87,7 @@ var Octopet = {
     title: "Octopet",
     subtitle: "USC Hackathon",
     date: "Spring 2019",
-    body: "At HackSC, used Firebase Machine learning kit to label images, determine relative healthiness, and feed to your virtual pet in an Android app."
+    body: "At HackSC, built a fun app to track healthy eating- take a picture of your food to feed your virtual pet who reacts relative to how healthy the food is. Used Firebase Machine learning kit to label images and Android Studio to build the app."
 }
 
 var Projects = {
