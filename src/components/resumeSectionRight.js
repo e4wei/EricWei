@@ -17,7 +17,7 @@ function ResumeSectionRight(props) {
                         <br></br>
                         {
                             (props.links ? props.links.map((link) => {
-                                return (<a href={link} style={{color: "purple"}}>{link}</a>)
+                                return (<a href={link} style={{color: "#014D4E"}}>{link}</a>)
                             }) : null)
                         }
                     </p>

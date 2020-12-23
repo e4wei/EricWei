@@ -45,12 +45,12 @@ var EducationRight = {
     title: "University of California San Diego",
     subtitle: "B.S. in Computer Science",
     date: "September 2016 - June 2020",
-    body: "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+    body: "During my time at UCSD, I attended a broad curriculum of comp-sci classes. The classes I took ranged from the basics of algorithms, computer architecture, and discrete mathematics to the different focuses within computer science such as networks, deep learning, AI, compilers, and software engineering. "
 }
 
 var Education = {
     left: EducationLeft,
-    right: [EducationRight, EducationRight],
+    right: [EducationRight],
     id: "Education"
 }
 
