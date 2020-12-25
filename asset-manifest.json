@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/EricWei/static/css/main.e3f2ad68.chunk.css",
-    "main.js": "/EricWei/static/js/main.417c308b.chunk.js",
-    "main.js.map": "/EricWei/static/js/main.417c308b.chunk.js.map",
-    "runtime-main.js": "/EricWei/static/js/runtime-main.8f3933d2.js",
-    "runtime-main.js.map": "/EricWei/static/js/runtime-main.8f3933d2.js.map",
-    "static/js/2.4e2b300a.chunk.js": "/EricWei/static/js/2.4e2b300a.chunk.js",
-    "static/js/2.4e2b300a.chunk.js.map": "/EricWei/static/js/2.4e2b300a.chunk.js.map",
-    "static/js/3.3dec1512.chunk.js": "/EricWei/static/js/3.3dec1512.chunk.js",
-    "static/js/3.3dec1512.chunk.js.map": "/EricWei/static/js/3.3dec1512.chunk.js.map",
-    "index.html": "/EricWei/index.html",
-    "static/css/main.e3f2ad68.chunk.css.map": "/EricWei/static/css/main.e3f2ad68.chunk.css.map",
-    "static/js/2.4e2b300a.chunk.js.LICENSE.txt": "/EricWei/static/js/2.4e2b300a.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/EricWei/static/media/LibreBaskerville-Regular.a27f99ca.ttf",
-    "static/media/ResumeFinal.5563a582.pdf": "/EricWei/static/media/ResumeFinal.5563a582.pdf",
-    "static/media/profilePic.01800ea0.png": "/EricWei/static/media/profilePic.01800ea0.png"
+    "main.css": "/ericwei.dev/static/css/main.d279cbdb.chunk.css",
+    "main.js": "/ericwei.dev/static/js/main.98a0b96f.chunk.js",
+    "main.js.map": "/ericwei.dev/static/js/main.98a0b96f.chunk.js.map",
+    "runtime-main.js": "/ericwei.dev/static/js/runtime-main.04ba4cca.js",
+    "runtime-main.js.map": "/ericwei.dev/static/js/runtime-main.04ba4cca.js.map",
+    "static/js/2.04acb8c7.chunk.js": "/ericwei.dev/static/js/2.04acb8c7.chunk.js",
+    "static/js/2.04acb8c7.chunk.js.map": "/ericwei.dev/static/js/2.04acb8c7.chunk.js.map",
+    "static/js/3.3dec1512.chunk.js": "/ericwei.dev/static/js/3.3dec1512.chunk.js",
+    "static/js/3.3dec1512.chunk.js.map": "/ericwei.dev/static/js/3.3dec1512.chunk.js.map",
+    "index.html": "/ericwei.dev/index.html",
+    "static/css/main.d279cbdb.chunk.css.map": "/ericwei.dev/static/css/main.d279cbdb.chunk.css.map",
+    "static/js/2.04acb8c7.chunk.js.LICENSE.txt": "/ericwei.dev/static/js/2.04acb8c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ericwei.dev/static/media/LibreBaskerville-Regular.a27f99ca.ttf",
+    "static/media/ResumeFinal.5563a582.pdf": "/ericwei.dev/static/media/ResumeFinal.5563a582.pdf",
+    "static/media/profilePic.01800ea0.png": "/ericwei.dev/static/media/profilePic.01800ea0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f3933d2.js",
-    "static/js/2.4e2b300a.chunk.js",
-    "static/css/main.e3f2ad68.chunk.css",
-    "static/js/main.417c308b.chunk.js"
+    "static/js/runtime-main.04ba4cca.js",
+    "static/js/2.04acb8c7.chunk.js",
+    "static/css/main.d279cbdb.chunk.css",
+    "static/js/main.98a0b96f.chunk.js"
   ]
 }
