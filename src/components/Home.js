@@ -16,7 +16,7 @@ function getHome() {
                             Hi, I'm Eric!
                         </h1>
                         <h3 style={paragraphCSS}>
-                            I'm a software architect who recently graduated with a B.S. in computer science from the University of California San Diego. My hobbies include running, playing videogames, and spending time with friends. I currently reside in San Jose, CA and am looking for a software related job.
+                            I'm a software architect who recently graduated with a B.S. in computer science from the University of California San Diego. My hobbies include running, playing video games, and spending time with friends. I currently reside in San Jose, CA and am looking for a software related job.
                         </h3>
                     </div>
                     {getSocial()}
@@ -84,14 +84,6 @@ const socialLinkCSS = {
     color: "#fff",
     textDecoration: "none",
     outline: "0"
-}
-
-const iconCSS = {
-    display: "inline-block",
-    fontFamily: "FontAwesome",
-    fontStyle: "normal",
-    fontWeight: "normal",
-    lineHeight: "1"
 }
 
 const HomeCSS = {
